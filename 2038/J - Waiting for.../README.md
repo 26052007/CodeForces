@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/2038/problem/J" target="_blank" rel="noopener noreferrer">2038J — Waiting for...</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2038J](https://codeforces.com/contest/2038/problem/J) |
+
+## Topics
+`greedy` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">J. Waiting for...</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Monocarp is waiting for a bus at the bus stop. Unfortunately, there are many people who want to ride a bus too.</p><p>You are given a list of events of two types: </p><ul> <li> <span class="tex-font-style-tt">B</span> $$$b_i$$$ — a bus with $$$b_i$$$ free seats arrives at the stop; </li><li> <span class="tex-font-style-tt">P</span> $$$p_i$$$ — $$$p_i$$$ people arrive at the stop. </li></ul><p>These events are listed in a chronological order. </p><p>When a bus arrives, the following happens. All people at the bus stop (except for Monocarp) try to enter the bus. If there are enough free seats for all of them, then they all enter the bus. Otherwise, some people remain at the bus stop (the number of people who enter the bus is equal to the number of free seats).</p><p>If there is still at least one free seat after all people (except for Monocarp) enter the bus, then Monocarp can decide to enter this bus as well (but he might choose to wait for another bus). For each bus, you have to determine if it is possible for Monocarp to take that bus.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$n$$$ $$$(1 \le n \le 10^3)$$$ — the number of events.</p><p>Then, $$$n$$$ lines follow. The $$$i$$$-th of them contains the description of the $$$i$$$-th event in one of the two following formats:</p><ul> <li> <span class="tex-font-style-tt">B</span> $$$b_i$$$ ($$$1 \le b_i \le 10^6$$$) — a bus with $$$b_i$$$ free seats arrives at the stop; </li><li> <span class="tex-font-style-tt">P</span> $$$p_i$$$ ($$$1 \le p_i \le 10^6$$$) — $$$p_i$$$ people arrive at the stop. </li></ul><p>Additional constraint on the input: there is at least one event of type <span class="tex-font-style-tt">B</span>.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each event of type <span class="tex-font-style-tt">B</span>, print <span class="tex-font-style-tt">YES</span> if it is possible for Monocarp to take the corresponding bus, or <span class="tex-font-style-tt">NO</span> otherwise (case-insensitive).</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00004751524913631622" id="id005887146761104637" class="input-output-copier">Copy</div></div><pre id="id00004751524913631622"><div class="test-example-line test-example-line-even test-example-line-0">10</div><div class="test-example-line test-example-line-even test-example-line-0">P 2</div><div class="test-example-line test-example-line-even test-example-line-0">P 5</div><div class="test-example-line test-example-line-even test-example-line-0">B 8</div><div class="test-example-line test-example-line-even test-example-line-0">P 14</div><div class="test-example-line test-example-line-even test-example-line-0">B 5</div><div class="test-example-line test-example-line-even test-example-line-0">B 9</div><div class="test-example-line test-example-line-even test-example-line-0">B 3</div><div class="test-example-line test-example-line-even test-example-line-0">P 2</div><div class="test-example-line test-example-line-even test-example-line-0">B 1</div><div class="test-example-line test-example-line-even test-example-line-0">B 2</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007146036780652227" id="id002525054670812521" class="input-output-copier">Copy</div></div><pre id="id007146036780652227">YES
+NO
+NO
+YES
+NO
+YES
+</pre></div></div></div>
