@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 8 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (2)
-- [math](#math) (3)
+- [implementation](#implementation) (3)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (5)
@@ -54,6 +54,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 82A | [Double Cola](https://codeforces.com/contest/82/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/82/A%20-%20Double%20Cola/solution.cpp) |
 | 2065A | [Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/26052007/CodeForces/blob/HEAD/2065/A%20-%20Skibidus%20and%20Amog'u/solution.cpp) |
 | 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
 
@@ -61,6 +62,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 82A | [Double Cola](https://codeforces.com/contest/82/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/82/A%20-%20Double%20Cola/solution.cpp) |
 | 2163A | [Souvlaki VS. Kalamaki](https://codeforces.com/contest/2163/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/26052007/CodeForces/blob/HEAD/2163/A%20-%20Souvlaki%20VS.%20Kalamaki/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
