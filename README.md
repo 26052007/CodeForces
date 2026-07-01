@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 161 | 21 |
+| 162 | 21 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (59)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (61)
+- [implementation](#implementation) (62)
 - [math](#math) (69)
 - [number theory](#number-theory) (11)
 - [schedules](#schedules) (1)
@@ -277,6 +277,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
