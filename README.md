@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 168 | 21 |
+| 169 | 21 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [number theory](#number-theory) (12)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (22)
-- [strings](#strings) (33)
+- [strings](#strings) (34)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -465,6 +465,7 @@
 | 1634A | [Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1634/A%20-%20Reverse%20and%20Concatenate/solution.cpp) |
 | 1800B | [Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1800/B%20-%20Count%20the%20Number%20of%20Pairs/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2000/A%20-%20Primary%20Task/solution.cpp) |
 | 2008B | [Square or Not](https://codeforces.com/contest/2008/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2008/B%20-%20Square%20or%20Not/solution.cpp) |
