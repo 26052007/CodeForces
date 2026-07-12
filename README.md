@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 173 | 21 |
+| 174 | 21 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (63)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (65)
+- [implementation](#implementation) (66)
 - [math](#math) (73)
 - [number theory](#number-theory) (12)
 - [schedules](#schedules) (1)
@@ -273,6 +273,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 237A | [Free Cash](https://codeforces.com/contest/237/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/237/A%20-%20Free%20Cash/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
