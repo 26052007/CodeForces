@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 175 | 21 |
+| 176 | 22 |
 
 ---
 
@@ -19,12 +19,13 @@
 - [brute force](#brute-force) (44)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [constructive algorithms](#constructive-algorithms) (25)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (63)
+- [greedy](#greedy) (64)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (66)
 - [math](#math) (73)
@@ -147,6 +148,12 @@
 | 2191B | [MEX Reordering](https://codeforces.com/contest/2191/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2191/B%20-%20MEX%20Reordering/solution.cpp) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -242,6 +249,7 @@
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2189A | [Table with Numbers](https://codeforces.com/contest/2189/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2189/A%20-%20Table%20with%20Numbers/solution.cpp) |
 | 2193B | [Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2193/B%20-%20Reverse%20a%20Permutation/solution.cpp) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
