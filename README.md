@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 176 | 22 |
+| 177 | 22 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (64)
+- [greedy](#greedy) (65)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (66)
 - [math](#math) (73)
@@ -211,6 +211,7 @@
 | 1800B | [Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1800/B%20-%20Count%20the%20Number%20of%20Pairs/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
