@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 185 | 22 |
+| 186 | 22 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (69)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (67)
+- [implementation](#implementation) (68)
 - [math](#math) (75)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
@@ -304,6 +304,7 @@
 | 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
+| 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
