@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 188 | 22 |
+| 189 | 22 |
 
 ---
 
@@ -25,10 +25,10 @@
 - [games](#games) (4)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (70)
+- [greedy](#greedy) (71)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (69)
-- [math](#math) (76)
+- [math](#math) (77)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (25)
@@ -216,6 +216,7 @@
 | 1550B | [Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1550/B%20-%20Maximum%20Cost%20Deletion/solution.cpp) |
 | 1634A | [Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1634/A%20-%20Reverse%20and%20Concatenate/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1800B | [Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1800/B%20-%20Count%20the%20Number%20of%20Pairs/solution.cpp) |
@@ -376,6 +377,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1550B | [Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1550/B%20-%20Maximum%20Cost%20Deletion/solution.cpp) |
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
