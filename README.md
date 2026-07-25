@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 186 | 22 |
+| 187 | 22 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (45)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [constructive algorithms](#constructive-algorithms) (28)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
@@ -27,7 +27,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (69)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (68)
+- [implementation](#implementation) (69)
 - [math](#math) (75)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
@@ -157,6 +157,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 
 ### dp
@@ -320,6 +321,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
