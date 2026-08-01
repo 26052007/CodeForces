@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 197 | 24 |
+| 198 | 24 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (76)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (72)
+- [implementation](#implementation) (73)
 - [math](#math) (80)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
@@ -319,6 +319,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
