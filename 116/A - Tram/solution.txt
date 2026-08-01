@@ -1,0 +1,20 @@
+def solve():
+    # Read the first line (n)
+    n = int(input())
+ 
+    c = 0
+    maxi = 0
+ 
+    # Loop exactly n times, reading one line per iteration
+    for _ in range(n):
+        x, y = map(int, input().split())
+        c -= x
+        c += y
+        if c > maxi:
+            maxi = c
+ 
+    print(maxi)
+ 
+ 
+if __name__ == "__main__":
+    solve()
