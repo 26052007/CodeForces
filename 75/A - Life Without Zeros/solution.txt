@@ -1,0 +1,24 @@
+import sys
+ 
+def remove_zeros(n: int) -> int:
+    return int(str(n).replace('0', ''))
+ 
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    a = int(input_data[0])
+    b = int(input_data[1])
+    c = a + b
+    
+    a_no_zeros = remove_zeros(a)
+    b_no_zeros = remove_zeros(b)
+    c_no_zeros = remove_zeros(c)
+    
+    if a_no_zeros + b_no_zeros == c_no_zeros:
+        print("YES")
+    else:
+        print("NO")
+ 
+if __name__ == '__main__':
+    solve()
