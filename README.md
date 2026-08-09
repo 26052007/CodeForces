@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 207 | 24 |
+| 208 | 24 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (77)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (77)
+- [implementation](#implementation) (78)
 - [math](#math) (82)
 - [number theory](#number-theory) (14)
 - [schedules](#schedules) (1)
@@ -322,6 +322,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/26052007/CodeForces/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 75A | [Life Without Zeros](https://codeforces.com/contest/75/problem/A) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/75/A%20-%20Life%20Without%20Zeros/solution.txt) |
 | 82A | [Double Cola](https://codeforces.com/contest/82/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/82/A%20-%20Double%20Cola/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
