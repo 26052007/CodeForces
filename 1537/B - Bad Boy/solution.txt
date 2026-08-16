@@ -1,0 +1,21 @@
+import sys
+ 
+def solve():
+    input = sys.stdin.read
+    data = input().split()
+    if not data:
+        return
+    
+    t = int(data[0])
+    results = []
+    
+    for k in range(t):
+        n = data[1 + k * 4]
+        m = data[2 + k * 4]
+        results.append(f"1 1 {n} {m}")
+        
+    print("
+".join(results))
+ 
+if __name__ == '__main__':
+    solve()
