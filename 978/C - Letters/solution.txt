@@ -1,0 +1,31 @@
+import sys
+ 
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    
+    n = int(input_data[0])
+    m = int(input_data[1])
+    
+    a = [int(x) for x in input_data[2:n+2]]
+    b = [int(x) for x in input_data[n+2:n+2+m]]
+    
+    dorm_idx = 0
+    sum_prev = 0
+    out = []
+    
+    for q in b:
+        while sum_prev + a[dorm_idx] < q:
+            sum_prev += a[dorm_idx]
+            dorm_idx += 1
+        
+        f = dorm_idx + 1
+        k = q - sum_prev
+        out.append(f"{f} {k}")
+        
+    print('
+'.join(out))
+ 
+if __name__ == '__main__':
+    solve()
