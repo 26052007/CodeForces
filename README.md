@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 217 | 25 |
+| 218 | 25 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (3)
+- [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (46)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
@@ -30,13 +30,13 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (81)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (80)
+- [implementation](#implementation) (81)
 - [math](#math) (84)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (26)
 - [strings](#strings) (39)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -61,6 +61,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
+| 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/978/C%20-%20Letters/solution.txt) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
 
@@ -371,6 +372,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
+| 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/978/C%20-%20Letters/solution.txt) |
 | 1359B | [New Theatre Square](https://codeforces.com/contest/1359/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1359/B%20-%20New%20Theatre%20Square/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.cpp) |
@@ -608,6 +610,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/978/C%20-%20Letters/solution.txt) |
 | 1359B | [New Theatre Square](https://codeforces.com/contest/1359/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1359/B%20-%20New%20Theatre%20Square/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
