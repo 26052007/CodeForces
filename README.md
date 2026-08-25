@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 220 | 25 |
+| 221 | 25 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (4)
+- [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (47)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
@@ -30,11 +30,11 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (83)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (82)
-- [math](#math) (84)
+- [implementation](#implementation) (83)
+- [math](#math) (85)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (27)
+- [sortings](#sortings) (28)
 - [strings](#strings) (39)
 - [two pointers](#two-pointers) (5)
 
@@ -61,6 +61,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.txt) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/978/C%20-%20Letters/solution.txt) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
@@ -370,6 +371,7 @@
 | 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.txt) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
@@ -436,6 +438,7 @@
 | 352A | [Jeff and Digits](https://codeforces.com/contest/352/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/352/A%20-%20Jeff%20and%20Digits/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.txt) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
@@ -548,6 +551,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/456/A%20-%20Laptops/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.txt) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
