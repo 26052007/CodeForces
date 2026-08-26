@@ -1,0 +1,33 @@
+import sys
+ 
+def solve():
+    lines = sys.stdin.read().split()
+    if not lines:
+        return
+    
+    results = []
+    for s in lines[1:]:
+        lower_idx = []
+        upper_idx = []
+        
+        for i, c in enumerate(s):
+            if c == 'b':
+                if lower_idx:
+                    lower_idx.pop()
+            elif c == 'B':
+                if upper_idx:
+                    upper_idx.pop()
+            elif c.islower():
+                lower_idx.append(i)
+            else:
+                upper_idx.append(i)
+                
+        valid_indices = lower_idx + upper_idx
+        valid_indices.sort()
+        results.append("".join(s[i] for i in valid_indices))
+        
+    print("
+".join(results))
+ 
+if __name__ == '__main__':
+    solve()
