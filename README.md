@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 222 | 25 |
+| 223 | 25 |
 
 ---
 
@@ -21,14 +21,14 @@
 - [constructive algorithms](#constructive-algorithms) (33)
 - [data structures](#data-structures) (5)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (7)
+- [dp](#dp) (8)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (83)
+- [greedy](#greedy) (84)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (84)
 - [math](#math) (85)
@@ -196,6 +196,7 @@
 |---|---------|------------|----------|
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 1359B | [New Theatre Square](https://codeforces.com/contest/1359/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1359/B%20-%20New%20Theatre%20Square/solution.cpp) |
+| 1469B | [Red and Blue](https://codeforces.com/contest/1469/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/B%20-%20Red%20and%20Blue/solution.txt) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
@@ -262,6 +263,7 @@
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.txt) |
+| 1469B | [Red and Blue](https://codeforces.com/contest/1469/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/B%20-%20Red%20and%20Blue/solution.txt) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.txt) |
 | 1550B | [Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1550/B%20-%20Maximum%20Cost%20Deletion/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
