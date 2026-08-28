@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 223 | 25 |
+| 224 | 25 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (47)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
-- [constructive algorithms](#constructive-algorithms) (33)
-- [data structures](#data-structures) (5)
+- [constructive algorithms](#constructive-algorithms) (34)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (8)
 - [dsu](#dsu) (1)
@@ -28,13 +28,13 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (84)
+- [greedy](#greedy) (85)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (84)
 - [math](#math) (85)
 - [number theory](#number-theory) (15)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (28)
+- [sortings](#sortings) (29)
 - [strings](#strings) (40)
 - [two pointers](#two-pointers) (5)
 
@@ -139,6 +139,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.txt) |
 | 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.txt) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.txt) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
@@ -177,6 +178,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.txt) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1907B | [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1907/B%20-%20YetnotherrokenKeoard/solution.txt) |
 | 1986B | [Matrix Stabilization](https://codeforces.com/contest/1986/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1986/B%20-%20Matrix%20Stabilization/solution.cpp) |
@@ -262,6 +264,7 @@
 | 1373A | [Donut Shops](https://codeforces.com/contest/1373/problem/A) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1373/A%20-%20Donut%20Shops/solution.txt) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.txt) |
 | 1469A | [Regular Bracket Sequence](https://codeforces.com/contest/1469/problem/A) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/A%20-%20Regular%20Bracket%20Sequence/solution.txt) |
 | 1469B | [Red and Blue](https://codeforces.com/contest/1469/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/B%20-%20Red%20and%20Blue/solution.txt) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.txt) |
@@ -556,6 +559,7 @@
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/456/A%20-%20Laptops/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.txt) |
+| 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.txt) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
