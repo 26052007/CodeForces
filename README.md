@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 225 | 25 |
+| 226 | 25 |
 
 ---
 
@@ -21,14 +21,14 @@
 - [constructive algorithms](#constructive-algorithms) (35)
 - [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (8)
+- [dp](#dp) (9)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (85)
+- [greedy](#greedy) (86)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (84)
 - [math](#math) (85)
@@ -202,6 +202,7 @@
 | 1469B | [Red and Blue](https://codeforces.com/contest/1469/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1469/B%20-%20Red%20and%20Blue/solution.txt) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 2091B | [Team Training](https://codeforces.com/contest/2091/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2091/B%20-%20Team%20Training/solution.cpp) |
+| 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.txt) |
 | 2179B | [Blackslex and Showering](https://codeforces.com/contest/2179/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2179/B%20-%20Blackslex%20and%20Showering/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.txt) |
@@ -306,6 +307,7 @@
 | 2091C | [Combination Lock](https://codeforces.com/contest/2091/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2091/C%20-%20Combination%20Lock/solution.cpp) |
 | 2093B | [Expensive Number](https://codeforces.com/contest/2093/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2093/B%20-%20Expensive%20Number/solution.cpp) |
 | 2098A | [Vadim's Collection](https://codeforces.com/contest/2098/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2098/A%20-%20Vadim's%20Collection/solution.cpp) |
+| 2114C | [Need More Arrays](https://codeforces.com/contest/2114/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/2114/C%20-%20Need%20More%20Arrays/solution.txt) |
 | 2121B | [Above the Clouds](https://codeforces.com/contest/2121/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2121/B%20-%20Above%20the%20Clouds/solution.cpp) |
 | 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
