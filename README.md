@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 227 | 25 |
+| 228 | 25 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (4)
-- [brute force](#brute-force) (48)
+- [brute force](#brute-force) (49)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [constructive algorithms](#constructive-algorithms) (35)
-- [data structures](#data-structures) (6)
+- [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (9)
 - [dsu](#dsu) (1)
@@ -111,6 +111,7 @@
 | 2067A | [Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2067/A%20-%20Adjacent%20Digit%20Sums/solution.cpp) |
 | 2098A | [Vadim's Collection](https://codeforces.com/contest/2098/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2098/A%20-%20Vadim's%20Collection/solution.cpp) |
 | 2121A | [Letter Home](https://codeforces.com/contest/2121/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2121/A%20-%20Letter%20Home/solution.cpp) |
+| 2123C | [Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/2123/C%20-%20Prefix%20Min%20and%20Suffix%20Max/solution.txt) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 | 2143A | [All Lengths Subtraction](https://codeforces.com/contest/2143/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2143/A%20-%20All%20Lengths%20Subtraction/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
@@ -184,6 +185,7 @@
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1907B | [YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/1907/B%20-%20YetnotherrokenKeoard/solution.txt) |
 | 1986B | [Matrix Stabilization](https://codeforces.com/contest/1986/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/1986/B%20-%20Matrix%20Stabilization/solution.cpp) |
+| 2123C | [Prefix Min and Suffix Max](https://codeforces.com/contest/2123/problem/C) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/2123/C%20-%20Prefix%20Min%20and%20Suffix%20Max/solution.txt) |
 | 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.cpp) |
 
 ### dfs and similar
