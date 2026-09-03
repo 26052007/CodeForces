@@ -1,0 +1,7 @@
+t = int(input())
+for _ in range(t):
+    n, m, k = map(int, input().split())
+    c = n // k
+    x = min(m, c)
+    y = (m - x + k - 2) // (k - 1)
+    print(x - y)
