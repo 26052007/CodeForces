@@ -1,0 +1,58 @@
+import sys
+ 
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    
+    t = int(input_data[0])
+    idx = 1
+    
+    out = []
+    for _ in range(t):
+        n = int(input_data[idx])
+        idx += 1
+        
+        a = [int(x) for x in input_data[idx : idx + n]]
+        idx += n
+            
+        m = int(input_data[idx])
+        idx += 1
+        
+        for _ in range(m):
+            s = input_data[idx]
+            idx += 1
+            
+            if len(s) != n:
+                out.append("NO")
+                continue
+                
+            num_to_char = {}
+            char_to_num = {}
+            possible = True
+            
+            for i in range(n):
+                num = a[i]
+                char = s[i]
+                
+                if num in num_to_char and num_to_char[num] != char:
+                    possible = False
+                    break
+                if char in char_to_num and char_to_num[char] != num:
+                    possible = False
+                    break
+                    
+                num_to_char[num] = char
+                char_to_num[char] = num
+                    
+            if possible:
+                out.append("YES")
+            else:
+                out.append("NO")
+                
+    sys.stdout.write('
+'.join(out) + '
+')
+ 
+if __name__ == '__main__':
+    solve()
