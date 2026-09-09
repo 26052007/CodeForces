@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 233 | 25 |
+| 234 | 25 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (90)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (85)
+- [implementation](#implementation) (86)
 - [math](#math) (89)
 - [number theory](#number-theory) (16)
 - [schedules](#schedules) (1)
@@ -367,6 +367,7 @@
 | 75A | [Life Without Zeros](https://codeforces.com/contest/75/problem/A) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/75/A%20-%20Life%20Without%20Zeros/solution.txt) |
 | 82A | [Double Cola](https://codeforces.com/contest/82/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/82/A%20-%20Double%20Cola/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 102B | [Sum of Digits](https://codeforces.com/contest/102/problem/B) | 1000 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/102/B%20-%20Sum%20of%20Digits/solution.txt) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/26052007/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [PyPy 3-64](https://github.com/26052007/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.txt) |
