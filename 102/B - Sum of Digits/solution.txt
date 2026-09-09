@@ -1,0 +1,8 @@
+s = input().strip()
+count = 0
+ 
+while len(s) > 1:
+    s = str(sum(int(digit) for digit in s))
+    count += 1
+ 
+print(count)
