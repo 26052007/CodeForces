@@ -1,0 +1,28 @@
+import sys
+ 
+def solve():
+    input_data = sys.stdin.read().split()
+    if not input_data:
+        return
+    
+    q = int(input_data[0])
+    out = []
+    idx = 1
+    
+    for _ in range(q):
+        a = int(input_data[idx])
+        b = int(input_data[idx+1])
+        n = int(input_data[idx+2])
+        S = int(input_data[idx+3])
+        idx += 4
+        
+        if S % n <= b and a * n + b >= S:
+            out.append("YES")
+        else:
+            out.append("NO")
+            
+    print('
+'.join(out))
+ 
+if __name__ == '__main__':
+    solve()
